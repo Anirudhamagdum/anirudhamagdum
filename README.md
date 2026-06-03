@@ -15,11 +15,10 @@
 ## 🚀 About Me
 
 - 💻 Passionate about Full Stack Development
-- 🌱 Exploring Cloud, AI & Scalable Systems
 - ⚡ Building real-world tech products
 - 🧠 Interested in System Design & Microservices
 - 🎯 Focused on Java, Spring Boot & React
-- 🚀 Working on something exciting behind the scenes
+- 🚀 Working on something exciting.
 
 <br><br>
 
