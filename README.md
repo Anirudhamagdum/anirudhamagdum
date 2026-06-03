@@ -63,11 +63,11 @@
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="www.linkedin.com/in/anirudha-magdum">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:akashmagdum90@@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
